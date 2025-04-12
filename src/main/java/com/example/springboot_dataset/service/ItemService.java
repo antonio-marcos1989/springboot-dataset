@@ -24,4 +24,19 @@ public class ItemService {
                 .orElse(ResponseEntity.notFound().build());
     }
 
+    public ResponseEntity<List<Item>> getItemByName(String name){
+        List<Item> items = itemRepository.findByNameContainingIgnoreCase(name);
+        return ResponseEntity.ok(items);
+    }
+
+    public ResponseEntity<List<Item>> getItemByCategory(String category){
+        List<Item> items = itemRepository.findByCategory(category);
+        return ResponseEntity.ok(items);
+    }
+
+    public ResponseEntity<List<Item>> getItemByPriceBetween(Double min, Double max){
+        List<Item> items = itemRepository.findByPriceBetween(min, max);
+        return ResponseEntity.ok(items);
+    }
+
 }
