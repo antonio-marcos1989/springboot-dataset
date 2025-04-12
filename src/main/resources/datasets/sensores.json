@@ -1,0 +1,1002 @@
+[
+  {
+    "local": "Noblehaven",
+    "tipo": "Umidade",
+    "unidade": "Pa",
+    "valor": 15.89,
+    "timestamp": "2002-01-26T20:53:37",
+    "ativo": true,
+    "limite_min": 14.68,
+    "limite_max": 103.48
+  },
+  {
+    "local": "North Luke",
+    "tipo": "Temperatura",
+    "unidade": "%",
+    "valor": 15.48,
+    "timestamp": "1982-04-25T07:08:13",
+    "ativo": false,
+    "limite_min": 1.09,
+    "limite_max": 114.81
+  },
+  {
+    "local": "Marytown",
+    "tipo": "Umidade",
+    "unidade": "%",
+    "valor": 82.33,
+    "timestamp": "2007-12-26T05:34:48",
+    "ativo": true,
+    "limite_min": 16.59,
+    "limite_max": 98.01
+  },
+  {
+    "local": "North Ashleyland",
+    "tipo": "Umidade",
+    "unidade": "C",
+    "valor": 13.26,
+    "timestamp": "1976-09-02T13:18:16",
+    "ativo": true,
+    "limite_min": 12.57,
+    "limite_max": 98.1
+  },
+  {
+    "local": "Michaelmouth",
+    "tipo": "Temperatura",
+    "unidade": "C",
+    "valor": 49.97,
+    "timestamp": "2004-08-14T09:16:40",
+    "ativo": false,
+    "limite_min": 10.67,
+    "limite_max": 102.73
+  },
+  {
+    "local": "New Charles",
+    "tipo": "Umidade",
+    "unidade": "C",
+    "valor": 97.35,
+    "timestamp": "2008-08-24T23:47:43",
+    "ativo": false,
+    "limite_min": 5.18,
+    "limite_max": 96.63
+  },
+  {
+    "local": "North William",
+    "tipo": "Umidade",
+    "unidade": "Pa",
+    "valor": 93.99,
+    "timestamp": "2001-03-20T00:40:35",
+    "ativo": false,
+    "limite_min": 9.46,
+    "limite_max": 81.52
+  },
+  {
+    "local": "North Erin",
+    "tipo": "Pressao",
+    "unidade": "Pa",
+    "valor": 43.28,
+    "timestamp": "1978-03-18T21:51:03",
+    "ativo": true,
+    "limite_min": 12.6,
+    "limite_max": 108.82
+  },
+  {
+    "local": "West Alejandraton",
+    "tipo": "Umidade",
+    "unidade": "Pa",
+    "valor": 70.07,
+    "timestamp": "2018-06-17T21:13:12",
+    "ativo": true,
+    "limite_min": 13.87,
+    "limite_max": 100.65
+  },
+  {
+    "local": "Port Adam",
+    "tipo": "Temperatura",
+    "unidade": "C",
+    "valor": 99.37,
+    "timestamp": "1985-03-05T07:29:46",
+    "ativo": false,
+    "limite_min": 2.87,
+    "limite_max": 111.77
+  },
+  {
+    "local": "Port Tiffanyport",
+    "tipo": "Temperatura",
+    "unidade": "C",
+    "valor": 85.19,
+    "timestamp": "2017-07-25T22:45:57",
+    "ativo": false,
+    "limite_min": 6.67,
+    "limite_max": 101.35
+  },
+  {
+    "local": "Port Jeremyview",
+    "tipo": "Umidade",
+    "unidade": "Pa",
+    "valor": 85.45,
+    "timestamp": "2011-07-15T15:27:23",
+    "ativo": true,
+    "limite_min": 4.5,
+    "limite_max": 109.65
+  },
+  {
+    "local": "Port Rebecca",
+    "tipo": "Umidade",
+    "unidade": "%",
+    "valor": 90.63,
+    "timestamp": "1981-10-11T12:00:41",
+    "ativo": false,
+    "limite_min": 2.66,
+    "limite_max": 112.88
+  },
+  {
+    "local": "Nicholasfurt",
+    "tipo": "Pressao",
+    "unidade": "%",
+    "valor": 33.13,
+    "timestamp": "2021-04-11T04:47:15",
+    "ativo": true,
+    "limite_min": 18.14,
+    "limite_max": 93.45
+  },
+  {
+    "local": "Christophershire",
+    "tipo": "Umidade",
+    "unidade": "Pa",
+    "valor": 48.35,
+    "timestamp": "2003-12-13T04:06:28",
+    "ativo": false,
+    "limite_min": 3.88,
+    "limite_max": 85.76
+  },
+  {
+    "local": "Phillipshaven",
+    "tipo": "Pressao",
+    "unidade": "Pa",
+    "valor": 46.89,
+    "timestamp": "1992-08-18T20:35:24",
+    "ativo": true,
+    "limite_min": 9.54,
+    "limite_max": 102.33
+  },
+  {
+    "local": "New Melissaborough",
+    "tipo": "Temperatura",
+    "unidade": "%",
+    "valor": 42.0,
+    "timestamp": "1998-11-04T23:48:54",
+    "ativo": false,
+    "limite_min": 18.63,
+    "limite_max": 100.54
+  },
+  {
+    "local": "North Donaldside",
+    "tipo": "Temperatura",
+    "unidade": "Pa",
+    "valor": 36.38,
+    "timestamp": "1980-07-01T01:07:51",
+    "ativo": false,
+    "limite_min": 10.45,
+    "limite_max": 119.43
+  },
+  {
+    "local": "Wattsland",
+    "tipo": "Temperatura",
+    "unidade": "%",
+    "valor": 96.17,
+    "timestamp": "2013-02-11T00:13:13",
+    "ativo": true,
+    "limite_min": 12.63,
+    "limite_max": 86.44
+  },
+  {
+    "local": "Mckinneyside",
+    "tipo": "Umidade",
+    "unidade": "%",
+    "valor": 69.51,
+    "timestamp": "1975-12-06T00:12:19",
+    "ativo": false,
+    "limite_min": 5.36,
+    "limite_max": 118.22
+  },
+  {
+    "local": "Vaughnborough",
+    "tipo": "Temperatura",
+    "unidade": "%",
+    "valor": 54.73,
+    "timestamp": "2019-05-30T18:25:54",
+    "ativo": true,
+    "limite_min": 2.31,
+    "limite_max": 92.9
+  },
+  {
+    "local": "South Richard",
+    "tipo": "Pressao",
+    "unidade": "C",
+    "valor": 72.52,
+    "timestamp": "1995-02-04T17:40:26",
+    "ativo": true,
+    "limite_min": 6.63,
+    "limite_max": 85.23
+  },
+  {
+    "local": "Port Kevinburgh",
+    "tipo": "Temperatura",
+    "unidade": "C",
+    "valor": 78.38,
+    "timestamp": "1987-05-04T04:06:31",
+    "ativo": false,
+    "limite_min": 0.62,
+    "limite_max": 119.38
+  },
+  {
+    "local": "South Jennifer",
+    "tipo": "Temperatura",
+    "unidade": "Pa",
+    "valor": 43.79,
+    "timestamp": "1986-08-28T05:44:44",
+    "ativo": true,
+    "limite_min": 9.82,
+    "limite_max": 115.46
+  },
+  {
+    "local": "North Michaelview",
+    "tipo": "Umidade",
+    "unidade": "%",
+    "valor": 52.68,
+    "timestamp": "1997-01-19T09:18:29",
+    "ativo": true,
+    "limite_min": 5.02,
+    "limite_max": 83.37
+  },
+  {
+    "local": "Lake Abigail",
+    "tipo": "Temperatura",
+    "unidade": "C",
+    "valor": 76.16,
+    "timestamp": "2002-01-30T14:29:45",
+    "ativo": true,
+    "limite_min": 19.94,
+    "limite_max": 118.17
+  },
+  {
+    "local": "Vasqueztown",
+    "tipo": "Temperatura",
+    "unidade": "C",
+    "valor": 47.22,
+    "timestamp": "1990-07-26T10:17:45",
+    "ativo": false,
+    "limite_min": 10.44,
+    "limite_max": 89.87
+  },
+  {
+    "local": "Davilaburgh",
+    "tipo": "Temperatura",
+    "unidade": "C",
+    "valor": 48.59,
+    "timestamp": "1980-07-26T08:33:39",
+    "ativo": false,
+    "limite_min": 10.22,
+    "limite_max": 89.49
+  },
+  {
+    "local": "Port Philliphaven",
+    "tipo": "Pressao",
+    "unidade": "Pa",
+    "valor": 43.92,
+    "timestamp": "1995-08-08T07:49:40",
+    "ativo": false,
+    "limite_min": 8.98,
+    "limite_max": 91.6
+  },
+  {
+    "local": "Lake Kelly",
+    "tipo": "Umidade",
+    "unidade": "Pa",
+    "valor": 63.15,
+    "timestamp": "2011-07-24T05:33:19",
+    "ativo": false,
+    "limite_min": 3.87,
+    "limite_max": 82.74
+  },
+  {
+    "local": "Samanthabury",
+    "tipo": "Pressao",
+    "unidade": "Pa",
+    "valor": 47.33,
+    "timestamp": "2011-08-04T08:16:44",
+    "ativo": true,
+    "limite_min": 0.18,
+    "limite_max": 118.32
+  },
+  {
+    "local": "Kathrynport",
+    "tipo": "Umidade",
+    "unidade": "C",
+    "valor": 97.85,
+    "timestamp": "1971-08-27T22:17:00",
+    "ativo": true,
+    "limite_min": 6.93,
+    "limite_max": 93.88
+  },
+  {
+    "local": "Changtown",
+    "tipo": "Pressao",
+    "unidade": "%",
+    "valor": 58.28,
+    "timestamp": "1991-10-01T11:18:41",
+    "ativo": false,
+    "limite_min": 8.63,
+    "limite_max": 109.05
+  },
+  {
+    "local": "Smithview",
+    "tipo": "Temperatura",
+    "unidade": "%",
+    "valor": 28.05,
+    "timestamp": "2017-11-09T16:39:27",
+    "ativo": false,
+    "limite_min": 6.27,
+    "limite_max": 86.02
+  },
+  {
+    "local": "Port Heather",
+    "tipo": "Temperatura",
+    "unidade": "%",
+    "valor": 13.46,
+    "timestamp": "1986-10-11T21:24:18",
+    "ativo": true,
+    "limite_min": 17.57,
+    "limite_max": 118.48
+  },
+  {
+    "local": "Robertfort",
+    "tipo": "Temperatura",
+    "unidade": "C",
+    "valor": 39.57,
+    "timestamp": "2023-10-31T00:19:50",
+    "ativo": false,
+    "limite_min": 18.93,
+    "limite_max": 84.88
+  },
+  {
+    "local": "Elizabethberg",
+    "tipo": "Pressao",
+    "unidade": "C",
+    "valor": 17.49,
+    "timestamp": "2019-08-01T01:53:36",
+    "ativo": false,
+    "limite_min": 17.84,
+    "limite_max": 109.98
+  },
+  {
+    "local": "Bruceton",
+    "tipo": "Temperatura",
+    "unidade": "%",
+    "valor": 75.58,
+    "timestamp": "2001-07-29T04:36:29",
+    "ativo": true,
+    "limite_min": 13.82,
+    "limite_max": 113.85
+  },
+  {
+    "local": "East Christina",
+    "tipo": "Pressao",
+    "unidade": "%",
+    "valor": 91.2,
+    "timestamp": "2020-07-14T16:13:39",
+    "ativo": true,
+    "limite_min": 0.02,
+    "limite_max": 92.6
+  },
+  {
+    "local": "Port Elizabeth",
+    "tipo": "Umidade",
+    "unidade": "Pa",
+    "valor": 87.11,
+    "timestamp": "1984-03-29T00:39:22",
+    "ativo": false,
+    "limite_min": 0.67,
+    "limite_max": 118.97
+  },
+  {
+    "local": "West Chadtown",
+    "tipo": "Pressao",
+    "unidade": "Pa",
+    "valor": 81.12,
+    "timestamp": "2012-10-01T08:31:17",
+    "ativo": false,
+    "limite_min": 14.18,
+    "limite_max": 108.61
+  },
+  {
+    "local": "West Joshuaburgh",
+    "tipo": "Temperatura",
+    "unidade": "Pa",
+    "valor": 75.42,
+    "timestamp": "1972-11-19T08:56:46",
+    "ativo": true,
+    "limite_min": 5.67,
+    "limite_max": 111.58
+  },
+  {
+    "local": "Lake Dustin",
+    "tipo": "Temperatura",
+    "unidade": "Pa",
+    "valor": 12.45,
+    "timestamp": "2008-11-11T05:36:59",
+    "ativo": false,
+    "limite_min": 3.21,
+    "limite_max": 107.56
+  },
+  {
+    "local": "Fergusonton",
+    "tipo": "Pressao",
+    "unidade": "%",
+    "valor": 34.94,
+    "timestamp": "2007-10-06T04:24:22",
+    "ativo": true,
+    "limite_min": 5.72,
+    "limite_max": 107.78
+  },
+  {
+    "local": "Gregoryburgh",
+    "tipo": "Temperatura",
+    "unidade": "%",
+    "valor": 87.77,
+    "timestamp": "1974-08-09T04:47:13",
+    "ativo": true,
+    "limite_min": 4.13,
+    "limite_max": 80.04
+  },
+  {
+    "local": "Micheleville",
+    "tipo": "Pressao",
+    "unidade": "C",
+    "valor": 38.29,
+    "timestamp": "2013-05-31T22:58:43",
+    "ativo": false,
+    "limite_min": 10.25,
+    "limite_max": 83.85
+  },
+  {
+    "local": "East Yesenia",
+    "tipo": "Pressao",
+    "unidade": "C",
+    "valor": 56.07,
+    "timestamp": "2012-07-23T10:22:52",
+    "ativo": false,
+    "limite_min": 11.4,
+    "limite_max": 95.38
+  },
+  {
+    "local": "Kennethchester",
+    "tipo": "Temperatura",
+    "unidade": "C",
+    "valor": 36.33,
+    "timestamp": "1998-08-17T12:44:04",
+    "ativo": true,
+    "limite_min": 17.93,
+    "limite_max": 106.58
+  },
+  {
+    "local": "Justinmouth",
+    "tipo": "Umidade",
+    "unidade": "Pa",
+    "valor": 84.59,
+    "timestamp": "1985-03-15T21:45:28",
+    "ativo": false,
+    "limite_min": 19.75,
+    "limite_max": 103.54
+  },
+  {
+    "local": "Taylormouth",
+    "tipo": "Temperatura",
+    "unidade": "Pa",
+    "valor": 50.22,
+    "timestamp": "1973-08-11T03:29:13",
+    "ativo": true,
+    "limite_min": 14.07,
+    "limite_max": 107.82
+  },
+  {
+    "local": "New Caseyland",
+    "tipo": "Temperatura",
+    "unidade": "C",
+    "valor": 83.06,
+    "timestamp": "1980-01-20T21:15:14",
+    "ativo": false,
+    "limite_min": 4.75,
+    "limite_max": 118.25
+  },
+  {
+    "local": "New Kyle",
+    "tipo": "Pressao",
+    "unidade": "C",
+    "valor": 29.31,
+    "timestamp": "2023-10-11T03:06:45",
+    "ativo": true,
+    "limite_min": 10.06,
+    "limite_max": 91.9
+  },
+  {
+    "local": "Alisonfort",
+    "tipo": "Pressao",
+    "unidade": "%",
+    "valor": 54.99,
+    "timestamp": "1986-02-09T16:00:44",
+    "ativo": false,
+    "limite_min": 5.79,
+    "limite_max": 93.87
+  },
+  {
+    "local": "Richardville",
+    "tipo": "Umidade",
+    "unidade": "%",
+    "valor": 50.3,
+    "timestamp": "2004-05-24T01:38:05",
+    "ativo": false,
+    "limite_min": 17.17,
+    "limite_max": 112.78
+  },
+  {
+    "local": "Ortizbury",
+    "tipo": "Umidade",
+    "unidade": "Pa",
+    "valor": 71.83,
+    "timestamp": "2016-02-07T11:57:18",
+    "ativo": false,
+    "limite_min": 8.52,
+    "limite_max": 89.54
+  },
+  {
+    "local": "New Wandaton",
+    "tipo": "Temperatura",
+    "unidade": "C",
+    "valor": 37.35,
+    "timestamp": "2006-05-24T19:49:43",
+    "ativo": true,
+    "limite_min": 13.15,
+    "limite_max": 96.92
+  },
+  {
+    "local": "Lake Steven",
+    "tipo": "Temperatura",
+    "unidade": "%",
+    "valor": 78.78,
+    "timestamp": "1991-07-18T11:19:34",
+    "ativo": false,
+    "limite_min": 12.83,
+    "limite_max": 102.77
+  },
+  {
+    "local": "Crystalshire",
+    "tipo": "Pressao",
+    "unidade": "C",
+    "valor": 41.21,
+    "timestamp": "1978-03-10T11:36:55",
+    "ativo": true,
+    "limite_min": 0.59,
+    "limite_max": 81.97
+  },
+  {
+    "local": "Port Katie",
+    "tipo": "Pressao",
+    "unidade": "C",
+    "valor": 44.36,
+    "timestamp": "1970-05-14T05:20:35",
+    "ativo": false,
+    "limite_min": 4.6,
+    "limite_max": 88.7
+  },
+  {
+    "local": "Kellyland",
+    "tipo": "Temperatura",
+    "unidade": "Pa",
+    "valor": 23.26,
+    "timestamp": "1980-10-21T08:06:09",
+    "ativo": false,
+    "limite_min": 8.36,
+    "limite_max": 118.45
+  },
+  {
+    "local": "Ericksonton",
+    "tipo": "Umidade",
+    "unidade": "%",
+    "valor": 67.46,
+    "timestamp": "1975-01-11T01:57:28",
+    "ativo": false,
+    "limite_min": 5.24,
+    "limite_max": 99.79
+  },
+  {
+    "local": "Thomaston",
+    "tipo": "Umidade",
+    "unidade": "%",
+    "valor": 87.32,
+    "timestamp": "2006-08-30T16:34:05",
+    "ativo": false,
+    "limite_min": 17.49,
+    "limite_max": 100.16
+  },
+  {
+    "local": "Crystalstad",
+    "tipo": "Umidade",
+    "unidade": "%",
+    "valor": 72.47,
+    "timestamp": "2006-01-11T09:53:11",
+    "ativo": true,
+    "limite_min": 14.93,
+    "limite_max": 115.33
+  },
+  {
+    "local": "Lake Peggy",
+    "tipo": "Umidade",
+    "unidade": "Pa",
+    "valor": 15.19,
+    "timestamp": "1985-09-17T00:53:18",
+    "ativo": false,
+    "limite_min": 1.15,
+    "limite_max": 100.35
+  },
+  {
+    "local": "South Richard",
+    "tipo": "Pressao",
+    "unidade": "C",
+    "valor": 28.15,
+    "timestamp": "2005-05-16T11:52:08",
+    "ativo": false,
+    "limite_min": 0.4,
+    "limite_max": 113.15
+  },
+  {
+    "local": "Browntown",
+    "tipo": "Umidade",
+    "unidade": "C",
+    "valor": 53.58,
+    "timestamp": "1998-04-12T23:30:33",
+    "ativo": false,
+    "limite_min": 7.76,
+    "limite_max": 85.27
+  },
+  {
+    "local": "Pamelabury",
+    "tipo": "Temperatura",
+    "unidade": "%",
+    "valor": 37.5,
+    "timestamp": "2014-08-31T16:09:48",
+    "ativo": false,
+    "limite_min": 4.64,
+    "limite_max": 107.88
+  },
+  {
+    "local": "Bryceborough",
+    "tipo": "Temperatura",
+    "unidade": "%",
+    "valor": 69.51,
+    "timestamp": "1993-01-13T11:19:28",
+    "ativo": true,
+    "limite_min": 10.25,
+    "limite_max": 112.92
+  },
+  {
+    "local": "Maldonadoland",
+    "tipo": "Umidade",
+    "unidade": "%",
+    "valor": 87.04,
+    "timestamp": "2008-06-18T08:15:34",
+    "ativo": false,
+    "limite_min": 17.5,
+    "limite_max": 99.99
+  },
+  {
+    "local": "Port Brooke",
+    "tipo": "Umidade",
+    "unidade": "%",
+    "valor": 74.19,
+    "timestamp": "2002-03-14T16:04:21",
+    "ativo": false,
+    "limite_min": 0.39,
+    "limite_max": 93.16
+  },
+  {
+    "local": "Carpenterburgh",
+    "tipo": "Umidade",
+    "unidade": "C",
+    "valor": 73.83,
+    "timestamp": "1981-04-04T13:05:10",
+    "ativo": true,
+    "limite_min": 9.61,
+    "limite_max": 84.81
+  },
+  {
+    "local": "Millerfort",
+    "tipo": "Umidade",
+    "unidade": "Pa",
+    "valor": 78.79,
+    "timestamp": "1983-06-15T20:24:29",
+    "ativo": true,
+    "limite_min": 10.1,
+    "limite_max": 86.47
+  },
+  {
+    "local": "Joshualand",
+    "tipo": "Umidade",
+    "unidade": "%",
+    "valor": 23.24,
+    "timestamp": "2001-07-26T18:21:48",
+    "ativo": true,
+    "limite_min": 17.9,
+    "limite_max": 100.47
+  },
+  {
+    "local": "Wangland",
+    "tipo": "Pressao",
+    "unidade": "C",
+    "valor": 87.99,
+    "timestamp": "1971-05-11T18:00:39",
+    "ativo": true,
+    "limite_min": 14.25,
+    "limite_max": 104.32
+  },
+  {
+    "local": "New Johnnyville",
+    "tipo": "Temperatura",
+    "unidade": "%",
+    "valor": 41.72,
+    "timestamp": "1987-02-09T08:32:44",
+    "ativo": false,
+    "limite_min": 12.33,
+    "limite_max": 116.71
+  },
+  {
+    "local": "South Nicole",
+    "tipo": "Temperatura",
+    "unidade": "Pa",
+    "valor": 13.7,
+    "timestamp": "1977-09-30T19:09:23",
+    "ativo": false,
+    "limite_min": 3.46,
+    "limite_max": 117.82
+  },
+  {
+    "local": "Kimberg",
+    "tipo": "Pressao",
+    "unidade": "Pa",
+    "valor": 43.5,
+    "timestamp": "1978-11-28T03:20:59",
+    "ativo": true,
+    "limite_min": 8.15,
+    "limite_max": 118.24
+  },
+  {
+    "local": "West Noah",
+    "tipo": "Temperatura",
+    "unidade": "Pa",
+    "valor": 29.53,
+    "timestamp": "2024-05-27T16:52:10",
+    "ativo": false,
+    "limite_min": 15.39,
+    "limite_max": 100.19
+  },
+  {
+    "local": "North Richardhaven",
+    "tipo": "Temperatura",
+    "unidade": "%",
+    "valor": 10.56,
+    "timestamp": "1995-06-05T22:16:03",
+    "ativo": false,
+    "limite_min": 0.64,
+    "limite_max": 112.65
+  },
+  {
+    "local": "Dianaview",
+    "tipo": "Umidade",
+    "unidade": "%",
+    "valor": 69.55,
+    "timestamp": "2023-02-16T18:36:14",
+    "ativo": false,
+    "limite_min": 2.39,
+    "limite_max": 90.6
+  },
+  {
+    "local": "East Kathryn",
+    "tipo": "Temperatura",
+    "unidade": "C",
+    "valor": 84.57,
+    "timestamp": "2008-05-21T01:15:17",
+    "ativo": true,
+    "limite_min": 15.94,
+    "limite_max": 99.99
+  },
+  {
+    "local": "Williamview",
+    "tipo": "Umidade",
+    "unidade": "C",
+    "valor": 58.34,
+    "timestamp": "2016-12-26T16:17:02",
+    "ativo": false,
+    "limite_min": 17.97,
+    "limite_max": 116.82
+  },
+  {
+    "local": "West Rebecca",
+    "tipo": "Pressao",
+    "unidade": "%",
+    "valor": 70.25,
+    "timestamp": "1982-12-21T10:37:42",
+    "ativo": false,
+    "limite_min": 18.53,
+    "limite_max": 113.72
+  },
+  {
+    "local": "West Steven",
+    "tipo": "Umidade",
+    "unidade": "C",
+    "valor": 75.4,
+    "timestamp": "2009-09-29T05:21:06",
+    "ativo": false,
+    "limite_min": 3.98,
+    "limite_max": 99.25
+  },
+  {
+    "local": "West Lauraberg",
+    "tipo": "Pressao",
+    "unidade": "%",
+    "valor": 59.06,
+    "timestamp": "1994-05-30T07:16:31",
+    "ativo": true,
+    "limite_min": 10.92,
+    "limite_max": 83.43
+  },
+  {
+    "local": "Joshuachester",
+    "tipo": "Temperatura",
+    "unidade": "C",
+    "valor": 66.17,
+    "timestamp": "1991-05-16T12:13:45",
+    "ativo": true,
+    "limite_min": 3.43,
+    "limite_max": 111.44
+  },
+  {
+    "local": "Bestberg",
+    "tipo": "Temperatura",
+    "unidade": "%",
+    "valor": 89.85,
+    "timestamp": "2002-09-03T04:54:40",
+    "ativo": true,
+    "limite_min": 1.42,
+    "limite_max": 97.75
+  },
+  {
+    "local": "East Melinda",
+    "tipo": "Umidade",
+    "unidade": "%",
+    "valor": 85.83,
+    "timestamp": "2013-04-27T09:08:42",
+    "ativo": true,
+    "limite_min": 9.3,
+    "limite_max": 85.29
+  },
+  {
+    "local": "New Robertside",
+    "tipo": "Temperatura",
+    "unidade": "Pa",
+    "valor": 48.06,
+    "timestamp": "1994-01-20T11:52:54",
+    "ativo": false,
+    "limite_min": 9.6,
+    "limite_max": 108.46
+  },
+  {
+    "local": "Reevesburgh",
+    "tipo": "Temperatura",
+    "unidade": "Pa",
+    "valor": 80.75,
+    "timestamp": "2022-03-30T06:18:14",
+    "ativo": false,
+    "limite_min": 6.12,
+    "limite_max": 82.25
+  },
+  {
+    "local": "South Anna",
+    "tipo": "Umidade",
+    "unidade": "C",
+    "valor": 54.54,
+    "timestamp": "1970-07-14T18:33:14",
+    "ativo": false,
+    "limite_min": 7.35,
+    "limite_max": 88.77
+  },
+  {
+    "local": "North Robert",
+    "tipo": "Umidade",
+    "unidade": "C",
+    "valor": 73.96,
+    "timestamp": "1971-02-26T23:55:26",
+    "ativo": true,
+    "limite_min": 15.52,
+    "limite_max": 107.51
+  },
+  {
+    "local": "Campbellbury",
+    "tipo": "Temperatura",
+    "unidade": "%",
+    "valor": 65.58,
+    "timestamp": "1992-05-21T07:12:36",
+    "ativo": true,
+    "limite_min": 16.36,
+    "limite_max": 92.42
+  },
+  {
+    "local": "Paulashire",
+    "tipo": "Pressao",
+    "unidade": "%",
+    "valor": 93.91,
+    "timestamp": "1977-01-06T22:39:52",
+    "ativo": true,
+    "limite_min": 2.9,
+    "limite_max": 90.44
+  },
+  {
+    "local": "Port Jasonstad",
+    "tipo": "Pressao",
+    "unidade": "C",
+    "valor": 53.25,
+    "timestamp": "1976-12-31T19:08:50",
+    "ativo": true,
+    "limite_min": 4.76,
+    "limite_max": 80.14
+  },
+  {
+    "local": "Donaldchester",
+    "tipo": "Temperatura",
+    "unidade": "C",
+    "valor": 35.22,
+    "timestamp": "1988-09-11T04:23:27",
+    "ativo": false,
+    "limite_min": 14.48,
+    "limite_max": 113.49
+  },
+  {
+    "local": "Hughesport",
+    "tipo": "Pressao",
+    "unidade": "Pa",
+    "valor": 65.6,
+    "timestamp": "1971-08-27T10:52:44",
+    "ativo": true,
+    "limite_min": 6.98,
+    "limite_max": 94.89
+  },
+  {
+    "local": "Bradleyborough",
+    "tipo": "Temperatura",
+    "unidade": "%",
+    "valor": 83.16,
+    "timestamp": "1988-04-22T17:01:18",
+    "ativo": true,
+    "limite_min": 18.71,
+    "limite_max": 106.82
+  },
+  {
+    "local": "Smithmouth",
+    "tipo": "Pressao",
+    "unidade": "%",
+    "valor": 83.13,
+    "timestamp": "2025-01-15T13:43:29",
+    "ativo": true,
+    "limite_min": 10.47,
+    "limite_max": 86.14
+  },
+  {
+    "local": "Melindaberg",
+    "tipo": "Pressao",
+    "unidade": "Pa",
+    "valor": 53.74,
+    "timestamp": "2021-10-07T15:09:36",
+    "ativo": false,
+    "limite_min": 16.99,
+    "limite_max": 118.07
+  }
+]
